@@ -1,5 +1,0 @@
-﻿  Source.c
-D:\Github\LW3T1\LW3T1\Source.c(14,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\Github\LW3T1\LW3T1\Source.c(42,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Github\LW3T1\LW3T1\Source.c(59,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  LW3T1.vcxproj -> D:\Github\LW3T1\x64\Debug\LW3T1.exe
