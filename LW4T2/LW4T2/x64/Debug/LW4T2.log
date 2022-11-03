@@ -1,3 +1,0 @@
-﻿  Source.c
-D:\Github\folder\LW4T2\LW4T2\Source.c(6,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  LW4T2.vcxproj -> D:\Github\folder\LW4T2\x64\Debug\LW4T2.exe
